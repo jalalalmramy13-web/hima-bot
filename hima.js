@@ -2,7 +2,7 @@ const HIMA_DATA = {
   name: "هيماواري أوزوماكي",
   nick: "هيما",
   age: 18,
-  obito_number: "967XXXXXXXXX",
+  obito_number: "967779950360",
   nicknames: {},
   warnings: {}
 };
